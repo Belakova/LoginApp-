@@ -1,0 +1,19 @@
+h:\visual studio 2010\Projects\CW\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+h:\visual studio 2010\Projects\CW\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+h:\visual studio 2010\Projects\CW\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+h:\visual studio 2010\Projects\CW\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+h:\visual studio 2010\Projects\CW\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+h:\visual studio 2010\Projects\CW\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+h:\visual studio 2010\Projects\CW\WindowsFormsApplication1\bin\Debug\ConsoleApplication1.exe
+h:\visual studio 2010\Projects\CW\WindowsFormsApplication1\bin\Debug\ConsoleApplication1.pdb
+h:\visual studio 2010\Projects\CW\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+h:\visual studio 2010\Projects\CW\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40122079\My Profile\Desktop\CW\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40122079\My Profile\Desktop\CW\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40122079\My Profile\Desktop\CW\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40122079\My Profile\Desktop\CW\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40122079\My Profile\Desktop\CW\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40122079\My Profile\Desktop\CW\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40122079\My Profile\Desktop\CW\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40122079\My Profile\Desktop\CW\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40122079\My Profile\Desktop\CW\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Confirmation.resources

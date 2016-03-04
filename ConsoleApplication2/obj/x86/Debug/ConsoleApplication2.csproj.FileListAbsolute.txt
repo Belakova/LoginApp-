@@ -1,0 +1,4 @@
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40122079\My Profile\Desktop\CW\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40122079\My Profile\Desktop\CW\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40122079\My Profile\Desktop\CW\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40122079\My Profile\Desktop\CW\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb
